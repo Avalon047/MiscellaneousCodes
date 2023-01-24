@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 20 17:34:38 2021
-
-@author: nickbick
-"""
-
 # Tree Implementation Example
 
 class TreeNode:
