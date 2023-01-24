@@ -1,10 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 11 21:54:37 2021
+# Tower of Hanoi Python Implementation
 
-@author: nickbick
-"""
 def move(f, t):
     '''
     f : From Position
